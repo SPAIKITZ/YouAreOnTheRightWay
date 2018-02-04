@@ -122,14 +122,14 @@ def rain2(row, column):
 #     print_text("https://docs.google.com/document/d/ a ShHYrz5FMbiHE6Z4oKD_0Wr9PGFQDq3sVRXtzLLVk/edit?usp=sharing")
 #     print_text("But I lost 2 numbers from the link. U have to combine it. Come on , it only 100 combinations possible))))")
 #     print_text(
-#         "Hint: they are around u. They are very close to you!!")
+#         "Hint: they are around u. They are very close to you!!")666
 
 while True:
     rain(30,20)
     print_text("U are close to 2nd part of the token.\n")
     print_text("To find it u have to go to the link on google docs!1!1!!!\n")
-    print_text("https://docs.google.com/document/d/<>a<>ShHYrz5FMbiHE6Z4oKD_0Wr9PGFQDq3sVRXtzLLVk/edit?usp=sharing \n")
-    print_text("But I lost 2 numbers from the link(it must be in <> in the link).\n U have to combine it. Come on , it only 100 combinations possible))))\n")
+    print_text("https://docs.google.com/document/d/<c4ca4238a0b923820dcc509a6f75849b>a<c4ca4238a0b923820dcc509a6f75849b>ShHYrz5FMbiHE<1679091c5a880faf6fb5e6087eb1b2dc>Z4oKD_0Wr9PGFQDq3sVRXtzLLVk/edit?usp=sharing \n")
+    print_text("But I have encrypted 3 numbers from the link(it is hashes in <> in the link).\n U have to decode it. Think what type of encrytion is it\n")
     print_text(
         "Hint: they are around u. They are very close to you!!\n")
     break
